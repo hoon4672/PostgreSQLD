@@ -1,0 +1,19 @@
+{
+	"name": "postgresql_demo",
+	"authors": ["putao"],
+	"targetType": "executable",
+	"dependencies": {
+		"database": {"path":"/"}
+	},
+	"description": "Samples Postres SQL ",
+	"copyright": "Copyright © 2017, BlockchainOS",
+	"license": "public domain",
+	"configurations": [
+		{
+			"name": "default",
+			"subConfigurations": {
+				"database": "postgresql"
+			}
+		}
+	]
+}
