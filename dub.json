@@ -1,5 +1,5 @@
 {
-	"name": "postgresql_demo",
+	"name": "postgresql",
 	"authors": ["putao"],
 	"targetType": "executable",
 	"dependencies": {
